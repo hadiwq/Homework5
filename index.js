@@ -13,7 +13,7 @@
 </html>
 
 <script>
-<!DOCTYPE html>
+
 <html>
 <body>
 
