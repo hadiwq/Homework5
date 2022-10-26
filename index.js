@@ -1,3 +1,4 @@
+<script>
 <!DOCTYPE html>
 <html>
 <body>
@@ -10,3 +11,4 @@
 
 </body>
 </html>
+</script>
