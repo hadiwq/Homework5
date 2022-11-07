@@ -38,6 +38,11 @@ document.getElementById("demo").innerHTML = Math.PI;
 </script>
 
 }
+  
+  function myFunction3() {
+  Math.random();
+  
+  }
 
 </body>
 </html> 
