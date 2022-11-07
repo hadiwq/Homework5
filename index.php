@@ -25,5 +25,10 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
 }
+  
+  function myFunction2() {
+  return 5 * 5;
+}
+  
 </body>
 </html> 
