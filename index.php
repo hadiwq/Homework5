@@ -27,8 +27,15 @@ Click me to display Date and Time.</button>
 }
   
   function myFunction2() {
-  <button type="button"
-  return 5 * 5;>
+  <h2>JavaScript Math.PI</h2>
+
+<p>Math.PI returns the ratio of a circle's circumference to its diameter:</p>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = Math.PI;
+</script>
 }
   
 </body>
