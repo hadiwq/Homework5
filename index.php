@@ -12,7 +12,7 @@
   </body>
 </html>
 
-html>
+<html>
 <body>
 
   function myFunction() {
