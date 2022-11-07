@@ -27,6 +27,8 @@ Click me to display Date and Time.</button>
 }
   
   function myFunction2() {
+  <button type="button"
+   onclick = "document.getElementById("demo").innerHTML = myFunction2()">
   return 5 * 5;
 }
   
