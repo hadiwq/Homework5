@@ -33,10 +33,8 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
 
-<script>
-document.getElementById("demo").innerHTML = Math.PI;
-</script>
+
 }
-  
+  document.getElementById("demo").innerHTML = Math.PI;
 </body>
 </html> 
