@@ -24,7 +24,7 @@ Click me to display Date and Time.</button>
 <a href="randomnumber.php">Random Number</a>
     
     <h2>JavaScript Booleans</h2>
-<p>Display the value of Boolean Random:</p>
+<p>Display the value of Boolean of two random numbers:</p>
 
 <p id="umm"></p>
 
