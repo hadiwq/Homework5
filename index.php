@@ -27,18 +27,18 @@ Click me to display Date and Time.</button>
 
 <p>Math.PI returns the ratio of a circle's circumference to its diameter:</p>
 
-<p iid="demo"></p>
+<p iid="math"></p>
 
 <script>
-document.getElementById("demo").innerHTML = Math.PI;
+document.getElementById("math").innerHTML = Math.PI;
 </script>
 
-}
+
   
-  function myFunction3() {
+  
   Math.random();
   
-  }
+  
     
     <html>
 <body>
