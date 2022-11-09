@@ -23,5 +23,6 @@ Math.floor(Math.random() * 10);
 </script>
 
 <button onclick="myFunction()">Random Number</button>
+  }
 </body>
 </html>
