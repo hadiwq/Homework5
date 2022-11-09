@@ -22,7 +22,7 @@ Click me to display Date and Time.</button>
 <p id="demo"></p>
 
   
-  function myFunction2() {
+  
   <h2>JavaScript Math.PI</h2>
 
 <p>Math.PI returns the ratio of a circle's circumference to its diameter:</p>
