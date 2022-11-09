@@ -24,12 +24,12 @@ Click me to display Date and Time.</button>
 <a href="randomnumber.php">Random Number</a>
     
     <h2>JavaScript Booleans</h2>
-<p>Display the value of Boolean(10 > 9):</p>
+<p>Display the value of Boolean Random:</p>
 
-<p id="demo"></p>
+<p um="umm"></p>
 
 <script>
-document.getElementById("demo").innerHTML = Boolean(Math.random() > Math.random());
+document.getElementById("umm").innerHTML = Boolean(Math.random() > Math.random());
 </script>
   
 </body>
