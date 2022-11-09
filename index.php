@@ -14,10 +14,10 @@ Click me to display Date and Time.</button>
 
 
 <p id="demo"></p>
-<script>
-document.getElementById("demo").innerHTML =
-Math.floor(Math.random() * 10);
-</script>
+<button type="button">
+onclick="document.getElementById("demo").innerHTML =
+Math.floor(Math.random() * 10)"
+</button>
 
 
 </body>
