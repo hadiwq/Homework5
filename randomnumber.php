@@ -13,17 +13,17 @@
 <body>
 
 <h2>JavaScript Math</h2>
+<p id="demo"></p>
 <script>
 function myFunction{
-<p id="demo"></p>
 
 
 document.getElementById("demo").innerHTML =
 Math.floor(Math.random() * 10);
-
+}
+  </script>
 
 <button onclick="myFunction()">Random Number</button>
-  </script>
   
 </body>
 </html>
