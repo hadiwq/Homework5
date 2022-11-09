@@ -14,13 +14,14 @@
 
 <h2>JavaScript Math</h2>
 
-
+function myFunction{
 <p id="demo"></p>
 
 <script>
 document.getElementById("demo").innerHTML =
 Math.floor(Math.random() * 10);
 </script>
-
+}
+<button onclick="myFunction()">Random Number</button>
 </body>
 </html>
