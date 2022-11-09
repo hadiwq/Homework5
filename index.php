@@ -26,7 +26,7 @@ Click me to display Date and Time.</button>
     <h2>JavaScript Booleans</h2>
 <p>Display the value of Boolean Random:</p>
 
-<p um="umm"></p>
+<p id="umm"></p>
 
 <script>
 document.getElementById("umm").innerHTML = Boolean(Math.random() > Math.random());
