@@ -9,19 +9,20 @@
   <body>
     <h1>Hello, world!</h1>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <html>
+<body>
 
+<h2>JavaScript Math</h2>
 
+<p>Math.floor(Math.random() * 10) returns a random integer between 0 and 9 (both 
+included):</p>
 
-<h2>JavaScript Math.PI</h2>
-
-<p>Math.PI returns the ratio of a circle's circumference to its diameter:</p>
-
-<p iid="math"></p>
+<p id="demo"></p>
 
 <script>
-document.getElementById("math").innerHTML = Math.PI;
+document.getElementById("demo").innerHTML =
+Math.floor(Math.random() * 10);
 </script>
 
 </body>
 </html>
-
