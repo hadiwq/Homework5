@@ -20,9 +20,10 @@ function myFunction{
 
 document.getElementById("demo").innerHTML =
 Math.floor(Math.random() * 10);
-</script>
+
 
 <button onclick="myFunction()">Random Number</button>
-  
+  </script>
+  }
 </body>
 </html>
