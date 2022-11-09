@@ -16,7 +16,7 @@ Click me to display Date and Time.</button>
 <p id="demo"></p>
 <button type="button">
 onclick="document.getElementById("demo").innerHTML =
-Math.floor(Math.random() * 10)"
+Math.floor(Math.random() * 10)";
 </button>
 
 
