@@ -13,12 +13,12 @@ Click me to display Date and Time.</button>
 
 
 
-<p iid="demo2"></p>
 
 <script>
 document.getElementById("demo2").innerHTML =
 Math.floor(Math.random() * 10);
 </script>
+<p iid="demo2"></p>
 
 </body>
 </html>
