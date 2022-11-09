@@ -15,7 +15,7 @@
 <h2>JavaScript Math</h2>
 <p id="demo"></p>
 <script>
-function myFunction{
+function myFunction() {
 
 
 document.getElementById("demo").innerHTML =
