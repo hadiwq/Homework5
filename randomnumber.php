@@ -13,11 +13,11 @@
 <body>
 
 <h2>JavaScript Math</h2>
-
+<script>
 function myFunction{
 <p id="demo"></p>
 
-<script>
+
 document.getElementById("demo").innerHTML =
 Math.floor(Math.random() * 10);
 </script>
