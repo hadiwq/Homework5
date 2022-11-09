@@ -22,6 +22,15 @@ Click me to display Date and Time.</button>
 <p id="demo"></p>
 
 <a href="randomnumber.php">Random Number</a>
+    
+    <h2>JavaScript Booleans</h2>
+<p>Display the value of Boolean(10 > 9):</p>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = Boolean(Math.random() > Math.random());
+</script>
   
 </body>
 </html> 
