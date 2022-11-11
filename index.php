@@ -31,6 +31,18 @@ Click me to display Date and Time.</button>
 <script>
 document.getElementById("umm").innerHTML = Boolean(Math.random() > Math.random());
 </script>
+    
+    <h1>JavaScript Arithmetic</h1>
+<h2>The + Operator</h2>
+
+<p id="ber"></p>
+
+<script>
+let x = 5;
+let y = 2;
+let z = x + y;
+document.getElementById("ber").innerHTML = z;
+</script>
   
 </body>
 </html> 
