@@ -49,7 +49,7 @@ document.getElementById("ber").innerHTML = z;
 <p id="ieie"></p>
 
 <script>
-let text = "John Doe";  // String written inside quotes
+let text = "Hadi Alqadi";  // String written inside quotes
 document.getElementById("ieie").innerHTML = text;
 </script>
   
