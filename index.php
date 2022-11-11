@@ -38,8 +38,8 @@ document.getElementById("umm").innerHTML = Boolean(Math.random() > Math.random()
 <p id="ber"></p>
 
 <script>
-let x = 5;
-let y = 2;
+let x = Math.random();
+let y = Math.random();
 let z = x + y;
 document.getElementById("ber").innerHTML = z;
 </script>
