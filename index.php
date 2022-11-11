@@ -43,6 +43,15 @@ let y = Math.random();
 let z = x + y;
 document.getElementById("ber").innerHTML = z;
 </script>
+
+<h2>JavaScript Strings</h2>
+
+<p id="ieie"></p>
+
+<script>
+let text = "John Doe";  // String written inside quotes
+document.getElementById("ieie").innerHTML = text;
+</script>
   
 </body>
 </html> 
